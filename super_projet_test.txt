@@ -2,3 +2,4 @@ this is a test
 this a request
 github is great
 ceci est une modification à prendre en compte.
+une autre modif à rajouter pour tester le new terminal bash sur VS code
